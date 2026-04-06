@@ -18,4 +18,14 @@
 
 <h2>How to Run / Installation Instructions </h2>
 
-- Install 
+- Download both app.js and index.html into the same folder
+
+- Launch index.html from file source
+
+<h2> What I Learned </h2>
+
+-How to generate random numbers in JavaScript
+
+-Using arrays to store multiple options
+
+-Implementing game logic with conditional statements (if, else if, else)
