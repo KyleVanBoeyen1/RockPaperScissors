@@ -2,7 +2,7 @@
 
 <h2>Description:</h2>
 
--This project is a simple Rock-Paper-Scissors game implemented in JavaScript.
+-This project is a simple Rock-Paper-Scissors excercise implemented in JavaScript.
 
 -The program randomly selects a choice for both the player and the computer, compares the two choices, and then determines the winner.
 
