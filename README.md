@@ -1,4 +1,4 @@
-<h1>Rock-Paper-Scissors Game in JavaScript</h1>
+<h1>Rock-Paper-Scissors Exercise in JavaScript</h1>
 
 <h2>Description:</h2>
 
