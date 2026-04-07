@@ -21,6 +21,8 @@
 - Download both app.js and index.html into the same folder
 
 - Launch index.html from file source
+  
+- Press F12 to bring up console and see results
 
 <h2> What I Learned </h2>
 
